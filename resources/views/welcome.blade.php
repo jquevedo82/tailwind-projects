@@ -17,7 +17,7 @@
                 pellentesque mauris in congue congue. Nulla in scelerisque lacus. Nam et velit ultrices, sagittis neque
                 ac, ornare eros. Nunc sed lobortis sapien. Nulla ut suscipit ex, nec volutpat ante. Cras et velit dolor.
                 Nam auctor egestas tellus, eget semper arcu. Quisque aliquet lacinia orci id blandit.</p>
-            <p class="bg-blue-500 break-after-column">Donec eget libero et nibh scelerisque lobortis. Mauris viverra dui ut arcu porta, vitae blandit ex
+            <p class="bg-blue-500 break-inside-avoid-column">Donec eget libero et nibh scelerisque lobortis. Mauris viverra dui ut arcu porta, vitae blandit ex
                 tempor. Sed ut pretium magna. Quisque semper porta ipsum, ac convallis ex ultricies ac. Cras velit odio,
                 commodo vel tincidunt quis, condimentum sit amet odio. Phasellus ultricies quam nec ligula ornare, at
                 varius nibh porttitor. Suspendisse vel elit vel tellus fringilla scelerisque. Interdum et malesuada
@@ -31,7 +31,7 @@
                 metus neque, placerat id tortor at, pulvinar interdum sem. Aenean sem neque, egestas eu risus a,
                 accumsan aliquam metus. Fusce at tortor ac nisl congue cursus. Nulla quis sollicitudin sem, non
                 scelerisque nulla.</p>
-            <p class="bg-indigo-200 break-before-column">Phasellus consequat ultrices justo lobortis posuere. Proin facilisis dolor turpis, quis placerat nisl
+            <p class="bg-indigo-200">Phasellus consequat ultrices justo lobortis posuere. Proin facilisis dolor turpis, quis placerat nisl
                 vulputate quis. Fusce sed lacus enim. Phasellus ut ultricies ipsum. Suspendisse eu magna augue. Vivamus
                 urna tellus, suscipit pulvinar blandit id, porta eget orci. Donec ut quam ac ligula maximus dictum
                 sollicitudin vitae diam. Integer sed imperdiet elit, quis dapibus lacus. Morbi efficitur posuere lorem

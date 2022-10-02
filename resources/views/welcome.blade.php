@@ -13,7 +13,7 @@
     <div class="container py-12">
         <div class="grid grid-cols-3 gap-6">
             <div class="col-span-2">
-                <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/r1ySsbIA7EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="w-full aspect-video " src="https://www.youtube.com/embed/r1ySsbIA7EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="col-span-1 bg-blue-500"></div>
         </div>
